@@ -7,6 +7,7 @@ import pandas as pd
 from fastapi.responses import JSONResponse
 from dotenv import load_dotenv
 import os
+from fastapi.responses import JSONResponse, FileResponse
 
 load_dotenv()
 api_key = os.getenv('NVIDIA_API_KEY')
