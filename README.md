@@ -1,4 +1,4 @@
-# AI-Driven Credit Assessment: Risk Prediction & Explanation System
+# Transparent Credit Risk Engine
 
 **Author:** Ronit Singha Roy
 
